@@ -4,7 +4,8 @@ Hi 👋 My name is Valeria Rodríguez García
 Multiplatform application developer student specialized in video games.
 -----------------------------------------------------------------------
 
-I have experience with: ◉ C# ◉ C++ ◉ CSS ◉ Unity ◉ HTML5 ◉ Javascript ◉ 3D's Max ◉ Photoshop ◉ Unreal Engine 5 ◉ Substance Painter
+I have experience with: 
+◉ C# ◉ C++ ◉ CSS ◉ Unity ◉ HTML5 ◉ Javascript ◉ 3D's Max ◉ Photoshop ◉ Unreal Engine 5 ◉ Substance Painter
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [valeriarodriguezgracia42@gmail.com](mailto:valeriarodriguezgracia42@gmail.com)
