@@ -6,7 +6,7 @@ Multiplatform application developer student specialized in video games.
 
 I'm a passionate technology student with a strong interest in programming, design, and video game development. 
 
-I have experience with: 
+ I have experience with: 
 
 ◉ C# 
 ◉ C++ 
