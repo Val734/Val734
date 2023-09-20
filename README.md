@@ -1,22 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Valeria Rodríguez García
-================================================================================================================================================
+Hi 👋 My name is Valeria Rodríguez García
+=========================================
 
 Multiplatform application developer student specialized in video games.
 -----------------------------------------------------------------------
 
-
- I have experience with: 
-
-◉ C# 
-◉ C++ 
-◉ CSS 
-◉ Unity 
-◉ HTML5 
-◉ Javascript 
-◉ 3D's Max 
-◉ Photoshop 
-◉ Unreal Engine 5 
-◉ Substance Painter
+I'm a passionate technology student with a strong interest in programming, design, and video game development. I have experience with: ◉ C# ◉ C++ ◉ CSS ◉ Unity ◉ HTML5 ◉ Javascript ◉ 3D's Max ◉ Photoshop ◉ Unreal Engine 5 ◉ Substance Painter
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [valeriarodriguezgracia42@gmail.com](mailto:valeriarodriguezgracia42@gmail.com)
