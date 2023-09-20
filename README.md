@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Multiplatform application developer student specialized in video games.
 -----------------------------------------------------------------------
 
-I'm a passionate technology student with a strong interest in programming, design, and video game development. 
 
  I have experience with: 
 
