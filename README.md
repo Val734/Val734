@@ -8,7 +8,7 @@ I have experience with:
 
 ◉ C# ◉ C++ ◉ CSS ◉ Unity ◉ HTML5 ◉ Javascript ◉ 3D's Max ◉ Photoshop ◉ Unreal Engine 5 ◉ Substance Painter
 
-* 🌍  I'm based in Barcelona
+* 🌍  I'm from Barcelona
 * ✉️  You can contact me at [valeriarodriguezgracia42@gmail.com](mailto:valeriarodriguezgracia42@gmail.com)
 
 ### Skills
